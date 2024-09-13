@@ -82,14 +82,6 @@ This project is a basic implementation with room for expansion. Future enhanceme
 
 Contributions are welcome! If you have suggestions, improvements, or bug fixes, please feel free to submit a pull request. Ensure that your code follows the project's style and conventions.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For any questions, feedback, or suggestions, please reach out to [your-email@example.com](mailto:your-email@example.com).
-
 ---
 
 Thank you for exploring **GenAI RPG Hardcoded**. We hope you find this project both educational and enjoyable as you delve into the world of conversational AI and RPG development!
